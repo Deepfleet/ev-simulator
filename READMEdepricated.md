@@ -1,7 +1,3 @@
-# EV Simulator
-
-Welcome to the EV Simulator project! This simulator provides a platform to simulate and experiment with various aspects related to Electric Vehicles.
-
 # [ev-simulator](https://github.com/sap-labs-france/ev-simulator)
 
 ## Summary
@@ -327,38 +323,3 @@ All kind of OCPP parameters are supported in a charging station template. The li
 This file and all other files in this repository are licensed under the Apache Software License, v.2 and copyrighted under the copyright in [NOTICE](NOTICE) file, except as noted otherwise in the [LICENSE](LICENSE) file or the code source file header.
 
 Please note that Docker images can contain other software which may be licensed under different licenses. This LICENSE and NOTICE files are also included in the Docker image. For any usage of built Docker images please make sure to check the licenses of the artifacts contained in the images.
-
-
-## Setting Up EV-SIMULATOR on Your Desktop: Step-by-Step Guide
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Building the Project](#building-the-project)
-- [Running the Simulator](#running-the-simulator)
-
-## Installation
-
-To get started with the EV Simulator, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/ev-simulator.git
-   cd ev-simulator
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-
-3. **Building the Project:**   
-
-      To build the EV Simulator, use the following command:
-   ```bash
-   npm run roll up
-
-4. **Running the Application:**   
-    After building the project, you can run the EV Simulator with the following command:
-    ```bash
-    npm run start:dev
